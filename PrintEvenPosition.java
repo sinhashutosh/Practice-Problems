@@ -3,7 +3,7 @@ package org.example;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class PrintEvenPositionElement {
+public class PrintEvenPosition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of an Array");
